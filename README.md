@@ -1,4 +1,4 @@
-### 🙌 Hi there! This is Wei-Yu
+### Hi there! This is Wei-Yu 
 
 - 🌅 From Taiwan, with a love for sunsets and the beach
 - 🏫 I’m a first-year Computer Science Master's student at the University of California, San Diego
