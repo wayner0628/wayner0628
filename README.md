@@ -55,6 +55,11 @@
       alt="Go"
       height="25"
     />
+    <img
+      src="https://img.shields.io/static/v1?style=flat&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="
+      alt="TypeScript"
+      height="25"
+    />
   </div>
 
   <div align="center">
